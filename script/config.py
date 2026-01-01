@@ -1,4 +1,4 @@
-API_URL = "https://fakestoreapi.com/products"
+API_URL = "https://dummyjson.com/carts"
 
 RAW_DATA_PATH = "data/raw/"
 PROCESSED_DATA_PATH = "data/processed/"
