@@ -6,7 +6,7 @@ from script.extract import file_path
 
 raw_file_path = file_path
 
-def transform_products(raw_file_path):
+def transform_carts (raw_file_path):
   logger.info('Starting Data Transformation')
   with open(raw_file_path) as f:
     data = json.load(f)
