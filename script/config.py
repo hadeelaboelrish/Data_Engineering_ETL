@@ -8,5 +8,5 @@ DB_CONFIG = {
     "port": 5432,
     "database": "dwh",
     "user": "postgres",
-    "password": "postgres"
+    "password": "********"
 }
